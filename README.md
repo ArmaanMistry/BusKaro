@@ -1,8 +1,8 @@
 # BusKaro
-<img src="https://github.com/ArmaanMistry/BusKaro/blob/main/buskaro_logo.png" width="200" height="100" />
+
 Surakshit Yatra, Digital Rasta;
 Bus Karo, mast raho.
-
+<img src="https://github.com/ArmaanMistry/BusKaro/blob/main/buskaro_logo.png" width="200" height="100" />
 
 ## The Problem it solves...
 The majority of bus transportation systems lack comprehensive digitalization, leading to several issues. These include
