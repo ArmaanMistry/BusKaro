@@ -1,3 +1,4 @@
+![busKaro_logo_color](https://github.com/ArmaanMistry/BusKaro/assets/101273920/a931bb22-cbb7-4c79-8d12-c9bb2be5c985)
 # BusKaro
 
 Surakshit Yatra, Digital Rasta;
