@@ -28,3 +28,7 @@ By leveraging these technologies, we aim to enhance the overall experience for p
 - Javascript
 - C++ for programming ESP32 MCU
 - CNN
+
+## Files in Repository
+
+- **IoT Data Acquisition:** Discover code & setup for sensors capturing passenger count, temperature, environment data, and more. [Link](https://github.com/ArmaanMistry/BusKaro/tree/main/IoT)
