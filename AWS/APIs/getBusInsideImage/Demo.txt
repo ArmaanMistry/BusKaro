@@ -1,0 +1,5 @@
+End Point: https://3cuv2rjor4.execute-api.ap-south-1.amazonaws.com/prod/getBusInsideImage?busUID=b1 
+
+Request Body: None
+
+Response Body: base64 encoded string of bus inside image of bus with busUID B1.
