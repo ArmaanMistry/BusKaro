@@ -32,3 +32,11 @@ By leveraging these technologies, we aim to enhance the overall experience for p
 ## Files in Repository
 
 - **IoT Data Acquisition:** Discover code & setup for sensors capturing passenger count, temperature, environment data, and more. [Link](https://github.com/ArmaanMistry/BusKaro/tree/main/IoT)
+
+- **Neurelo Data Management:** Manage data efficiently with the scalable use of APIs. [Link](https://github.com/ArmaanMistry/BusKaro/tree/main/Neurelo)
+
+- **Management Website:** Manage operations with real-time info through a dedicated website. [Link](https://github.com/ArmaanMistry/BusKaro/tree/main/Management%20Website)
+
+- **Passenger Application:** Get access to real-time info on the buses through a dedicated application. [Link](https://github.com/ArmaanMistry/BusKaro/tree/main/Passenger%20Mobile%20Application)
+
+- **AWS Cloud Infrastructure:** Leverage secure & scalable cloud services for data storage and API access. [Link](https://github.com/ArmaanMistry/BusKaro/tree/main/AWS)
