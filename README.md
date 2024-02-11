@@ -53,3 +53,6 @@ By leveraging these technologies, we aim to enhance the overall experience for p
 | Circuit Diagram               | IoT Module               |
 | ---------------------- | ---------------------- |
 | <img src="https://github.com/ArmaanMistry/BusKaro/blob/main/circuit%20diagram.jpg" width="500" height="500" /> | <img src="https://github.com/ArmaanMistry/BusKaro/blob/main/IoT%20Module.jpg" width="550" height="500" /> |
+
+## ⚠Note:
+- Our ID verification was not verified and was still showing pending, we addresed the same problem to the volunter and in the Discord. Here is the domain name: --> busybus.biz
